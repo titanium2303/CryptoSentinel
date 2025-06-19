@@ -11,7 +11,7 @@ from telegram.error import TelegramError
 import sqlite3
 
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
-YOUR_CHAT_ID = 123456789  # ← Замените на свой Telegram ID
+YOUR_CHAT_ID = 123456789  # ← Your Telegram ID here
 
 async def periodic_analysis():
     try:
