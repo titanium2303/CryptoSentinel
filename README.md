@@ -31,7 +31,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cryptosentinel.git
+git clone https://github.com/titanium2303/cryptosentinel.git
 cd cryptosentinel
 ```
 
